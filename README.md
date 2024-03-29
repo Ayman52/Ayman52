@@ -1,16 +1,21 @@
 ### Hi there I am Ayman Bahatheg 👋
 
-<!--
-**Ayman52/Ayman52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a participant Integrify's C# full-stack bootcamp.
+- 🌱 I’m growing my knowledge by the day.
+- 👯 I’m looking to get a job on web development.
+- 💬 What am I good at:
+    - HTML
+    - CSS/Bootstrap
+    - JavaScript/TypeScript
+    - React
+    - C#
+    - Java
+    and the list goes on each day it expands more and more ...
+- 📫 How to reach me:
+    - visit my LinkedIn page at: https://www.linkedin.com/in/ayman-bahatheg
+    - contact me through Email: ayman52aaa@gmail.com
+- 
+- ⚡ aside from programming:
+    I enjoy all sorts of art so you might see me paint and draw from time to time.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
