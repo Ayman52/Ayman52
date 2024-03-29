@@ -1,6 +1,6 @@
 ### Hi there I am Ayman Bahatheg 👋
 
-- 🔭 I’m currently a participant Integrify's C# full-stack bootcamp.
+- 🔭 I’m currently a participant in Integrify's C# full-stack bootcamp.
 - 🌱 I’m growing my knowledge by the day.
 - 👯 I’m looking to get a job on web development.
 - 💬 What am I good at:
