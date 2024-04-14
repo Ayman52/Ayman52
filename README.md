@@ -6,7 +6,9 @@
 - 💬 What am I good at:
     - HTML
     - CSS/Bootstrap
-    - here is a web page that I worked on using HTML/CSS: https://ayman52.github.io/sda-2-online-html-css-ecommerce-landing-page/
+    - here are some web pages that I worked on using HTML/CSS:
+    -  https://ayman52.github.io/sda-2-online-html-css-ecommerce-landing-page/
+    -  https://ayman52.github.io/M-G-Jewellery-store/
     - JavaScript/TypeScript
     - React
     - C#
